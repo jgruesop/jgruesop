@@ -54,10 +54,28 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>PUG</b></span><br><br><br>
+        <span><b>CSS3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
       </td>
-
+      <td width="25%" align="center">
+        <span><b>JAVASCRIPT</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>NODEJS</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>MySQL</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>PYTHON</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!--
 **jgruesop/jgruesop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
