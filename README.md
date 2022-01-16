@@ -1,7 +1,7 @@
 ### Hi, I'm Jhonatan!👋
 ####  - I'm a Backend Developer
 ####  - With some of Frontend Developer
-![Jhonatan Grueso Github Stats](https://github-readme-stats.vercel.app/api?username=byjgruesop&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![jgruesop Github Stats](https://github-readme-stats.vercel.app/api?username=byjgruesop&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Contact me
 
@@ -55,27 +55,43 @@
       </td>
       <td width="25%" align="center">
         <span><b>CSS3</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>JAVASCRIPT</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>NODEJS</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
-      </td>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>      
       <td width="25%" align="center">
         <span><b>MySQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
         <span><b>PYTHON</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pug.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
   </tbody>
 </table>
+
+## I'm Currently Learning
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>JAVASCRIPT</b></span><br><br><br>
+        <img height="64px" target"_blank" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>NODEJS</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>REACT<span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/create-react-app.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>ENGLISH<span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/create-react-app.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>     
 <!--
 **jgruesop/jgruesop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
