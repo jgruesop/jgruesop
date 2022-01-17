@@ -1,7 +1,7 @@
 ### Hi, I'm Jhonatan!👋
 ####  - I'm a Backend Developer
 ####  - With some of Frontend Developer
-![Jhonatan Grueso Github Stats](https://github-readme-stats.vercel.app/api?username=jgruesop&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Jhonatan Grueso Github Stats](https://github-readme-stats.vercel.app/api?username=jgruesop&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=f3904f)
 
 ## Contact me
 
@@ -17,7 +17,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a target="_blank" href="www.linkedin.com/in/jhonatan-grueso-perea-603707148" target="_blank">
+        <a href="www.linkedin.com/in/jhonatan-grueso-perea-603707148" target="_blank">
           <b>LinkedIn</b>
           <br>
           <br>
@@ -25,7 +25,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a target="_blank" href="https://www.instagram.com/jhonper86/" target="_blank">
+        <a href="https://www.instagram.com/jhonper86/" target="_blank">
           <b>Instagram</b>
           <br>
           <br>
