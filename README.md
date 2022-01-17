@@ -50,6 +50,10 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <span><b>VS Code</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
         <span><b>HTML 5</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
