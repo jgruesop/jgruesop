@@ -56,15 +56,19 @@
       <td width="25%" align="center">
         <span><b>CSS3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>      
-      <td width="25%" align="center">
-        <span><b>MySQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
         <span><b>PYTHON</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+      <td width="25%" align="center">
+        <span><b>JAVA</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>MySQL</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>      
     </tr>
   </tbody>
 </table>
