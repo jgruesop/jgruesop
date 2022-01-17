@@ -99,7 +99,7 @@
       </td>
       <td width="25%" align="center">
         <span><b>ENGLISH<span><br><br><br>
-        <img height="64px" src="https://png.pngtree.com/png-clipart/20210108/ourlarge/pngtree-learn-english-transparent-png-free-download-png-image_2702150.jpg">
+        <img height="80px" src="https://png.pngtree.com/png-clipart/20210108/ourlarge/pngtree-learn-english-transparent-png-free-download-png-image_2702150.jpg">
       </td>
     </tr>
   </tbody>
