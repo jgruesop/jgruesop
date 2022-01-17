@@ -17,7 +17,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="www.linkedin.com/in/jhonatan-grueso-perea-603707148" target="_blank">
+        <a target="_blank" href="www.linkedin.com/in/jhonatan-grueso-perea-603707148" target="_blank">
           <b>LinkedIn</b>
           <br>
           <br>
@@ -25,7 +25,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://www.instagram.com/jhonper86/" target="_blank">
+        <a target="_blank" href="https://www.instagram.com/jhonper86/" target="_blank">
           <b>Instagram</b>
           <br>
           <br>
@@ -33,7 +33,7 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="https://twitter.com/JGRUESOP" target="_blank">
+        <a target="_blank" href="https://twitter.com/JGRUESOP" target="_blank">
           <b>Tweeter</b>
           <br>
           <br>
@@ -67,7 +67,7 @@
       </td>
       <td width="25%" align="center">
         <span><b>JAVA</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="70px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
         <span><b>MySQL</b></span><br><br><br>
@@ -83,11 +83,11 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><b>JAVASCRIPT</b></span><br><br><br>
-        <img height="64px" target"_blank" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
         <span><b>FLASK</b></span><br><br><br>
-        <img height="64px" target"_blank" src="https://cdn.svgporn.com/logos/flask.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
       <td width="25%" align="center">
         <span><b>NODEJS</b></span><br><br><br>
