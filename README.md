@@ -1,7 +1,7 @@
 ### Hi, I'm Jhonatan!👋
 ####  - I'm a Backend Developer
 ####  - With some of Frontend Developer
-![Jhonatan Grueso Github Stats](https://github-readme-stats.vercel.app/api?username=jgruesop&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=f3904f)
+![Jhonatan Grueso Github Stats](https://github-readme-stats.vercel.app/api?username=jgruesop&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=ffffff)
 
 ## Contact me
 
